@@ -184,6 +184,4 @@ Phase 1 ensures each tile is **clean, consistent, and edge-highlighted**, making
 
 ---
 
-## 📬 Author
 
-Made with 😵, 😤, ☕, and lots of debugging by **Abdulrhman Hammouda**.
